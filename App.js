@@ -1,6 +1,6 @@
 // const audio = new Audio('caraudio.mp3');
 // var resp = audio.play();
-
+// omo, hunger dey wipe me sha, but no p
 // if(resp != undefined){
 //     resp.then(_ => {
 //         //autoplay starts
